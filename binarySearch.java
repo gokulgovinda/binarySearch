@@ -12,7 +12,7 @@ public class MainClass {
 			else r = mid-1;
 		}
 		return -1;
-	}  
+	}   
 	
 //	1, 2, 4, 4, 4, 5, 9, 11, 11, 11, 11, 14
 //	l = 8
