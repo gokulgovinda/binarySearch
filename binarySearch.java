@@ -60,7 +60,7 @@ public class MainClass {
 		}
 		return -1;
 	}
-	
+	 
 	public static void main(String[] args) {
 //		int a[] = {1, 2, 4, 4, 4, 5, 9, 9, 11, 11, 11, 14};
 		int a[] = {4, 5, 6, 7, 1, 2, 3};
