@@ -1,7 +1,7 @@
 package binarySearchBasics;
 
 public class MainClass {
-	
+	 
 	static int binarySearch(int a[], int key) {
 		int l = 0;
 		int r = a.length-1;
