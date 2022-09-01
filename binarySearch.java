@@ -26,7 +26,7 @@ public class MainClass {
 		int l = 0;
 		int r = a.length-1;
 		int ans = -1;
-		while(l <= r) {
+		while(l <= r) { 
 			int mid = (l+r)/2;
 			if(a[mid] == key) {
 				ans = mid;
